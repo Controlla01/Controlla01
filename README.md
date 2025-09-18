@@ -15,6 +15,7 @@ Always learning, always coding 🚀
 ---
 
 ## 📌 Featured Projects
+- [🖥️ AfooTech Attendance Management System (.NET)](https://github.com/Controlla01/AfooTECH_Attendance_Management_System_Version_2)
 - [🚗 AutoSystem (Full-Stack Management System)](https://github.com/Controlla01/autosystem)
 - [📊 Payroll System in VB.NET](https://github.com/Controlla01/Microsoft-visual-studio-projects/tree/main/GetFoodStuff%20PayRoll) 
 - [🚚 Kargon (Logistics Solution in PHP)](https://github.com/Controlla01/kargon)  
