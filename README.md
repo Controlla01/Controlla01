@@ -17,7 +17,8 @@ Always learning, always coding 🚀
 ## 📌 Featured Projects
 - [🖥️ AfooTech Attendance Management System (.NET)](https://github.com/Controlla01/AfooTECH_Attendance_Management_System_Version_2)
 - [🚗 AutoSystem (Full-Stack Management System)](https://github.com/Controlla01/autosystem)
-- [📊 Payroll System in VB.NET](https://github.com/Controlla01/Microsoft-visual-studio-projects/tree/main/GetFoodStuff%20PayRoll) 
+- [📊 Payroll System in VB.NET](https://github.com/Controlla01/Microsoft-visual-studio-projects/tree/main/GetFoodStuff%20PayRoll)
+- [💰 LoanApp (PHP Loan Management System)](https://github.com/Controlla01/loan-app)
 - [🚚 Kargon (Logistics Solution in PHP)](https://github.com/Controlla01/kargon)  
 
 ---
@@ -31,7 +32,6 @@ Always learning, always coding 🚀
 
 ## 🤝 Let's Connect
 - GitHub: [@Controlla01](https://github.com/Controlla01)  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 - Email: Victorogunsiji80@gmail.com
 
 ---
